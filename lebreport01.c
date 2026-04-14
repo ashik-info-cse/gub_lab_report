@@ -3,7 +3,7 @@
 int main(){
     //Input part of this program
     int tdays, ys, ms, ds;
-    pritf ("Input the number of days:");
+    printf ("Input the number of days:");
     scanf ("%d", &tdays);
 
 
